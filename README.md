@@ -7,3 +7,5 @@ Making change on remote
  
 
 I am in Branch A
+
+I am currently in branch B
